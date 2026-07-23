@@ -1,0 +1,6 @@
+{
+  "name": "BBH HR-DocGen MY",
+  "description": "Malaysian HR Document & Employment Contract Generator with Peninsular & Sarawak Legal Compliance, Disciplinary Workflows, and AI Drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
